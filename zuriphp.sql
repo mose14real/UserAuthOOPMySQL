@@ -1,0 +1,16 @@
+INSERT INTO `students` (`id`, `full_names`, `country`, `email`, `gender`, `password`) VALUES
+(1, 'Nancy Vicky', 'Ghana', 'nancy@gmail.com', 'Female', 'zuri-intern01'),
+(2, 'Seyi Olufe', 'Nigeria', 'seyi@gmail.com', 'Male', 'zuri-intern02'),
+(3, 'Chioma Victoria', 'Central Africa', 'vicky@gmail.com', 'Female', 'zuri-intern03'),
+(4, 'Nfon Andrew', 'Cameroon', 'drew@gmail.com', 'Male', 'zuri-intern04'),
+(5, 'Oluwasegun', 'Kenya', 'oluwasegun@mail.com', 'Male', 'zuri-intern05'),
+(6, 'Olopade', 'South Africa', 'olopade@mail.com', 'Male','zuri-intern06'),
+(7, 'Moses', 'Ghana', 'moses@mail.com', 'Male','zuri-intern07'),
+(8, 'Abiola', 'Congo', 'abiola@mail.com', 'Male','zuri-intern08'),
+(9, 'Opeyemi', 'Gabon', 'opeyemi@mail.com', 'Female','zuri-intern09'),
+(10, 'Damilola', 'Morocco', 'damilola@mail.com', 'Female','zuri-intern10'),
+(11, 'Peter', 'Cameroon', 'peter@mail.com', 'Male','zuri-intern11'),
+(12, 'Stephen', 'Central Africa', 'stephen@mail.com', 'Male','zuri-intern12'),
+(13, 'Shola', 'Kenya', 'shola@mail.com', 'Male','zuri-intern13'),
+(14, 'Seun', 'Gabon', 'seun@mail.com', 'Female','zuri-intern14'),
+(15, 'Aishat', 'Cameroon', 'aishat@mail.com', 'Female', 'zuri-intern15');
